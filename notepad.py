@@ -10,14 +10,4 @@ text=Text(root,yscrollcommand=scroolbar.set)
 text.pack(fill=BOTH)
 scroolbar.config(command=text.yview)
 
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
